@@ -65,7 +65,17 @@
   @media (max-width: 480px) { 
     .edge
     {
-        margin-left: 60px;
+        width: 100%;
+        margin-left: 0px;
+        align-items: center;
+        justify-content: center;
+        /* text-align: center; */
+        /* padding: 30px 100px 50px; */
+    }
+
+    .edge form input
+    {
+        width: 100%;
     }
 }
  

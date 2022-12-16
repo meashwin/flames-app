@@ -86,8 +86,8 @@
   @media (max-width: 480px) { 
     .modal
     {
-      margin-left: -100px;
-      width: 400px;
+      left: 80px;
+      width: 100%;
     }
 
     .btn input 

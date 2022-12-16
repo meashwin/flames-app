@@ -55,7 +55,37 @@
   @media (max-width: 480px) { 
     .footer
     {
-        margin-left: 20px;
+       margin-left: 0px;
+        width: 100%;
+        
+        padding-top: 0px;
+        padding-bottom: 0px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+
+        height: 50px;
+    }
+
+    .footer a 
+    {
+        margin-left: auto;
+    }
+
+    .footer a p
+    {
+        /* margin-top: -15px; */
+        font-size: 11px;
+        
+    }
+
+    .git a img
+    {
+
+        margin-top: -15px;
+        font-size: 11px;  
+        height: 15px;
+        width: 15px;      
     }
 }
 

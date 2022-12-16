@@ -25,6 +25,10 @@
     {
         margin-left: 270px;
     }
+    .head
+    {
+        width: 100%;
+    }
     
   }
 
@@ -32,7 +36,14 @@
   @media (max-width: 480px) { 
     .head h1 
     {
-        margin-left: 150px;
+        text-align: center;
+        margin-left: 50px;
+        
+    }
+
+    .head
+    {
+        width: 100%;
     }
 }
 

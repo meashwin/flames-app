@@ -83,3 +83,17 @@
   }
 
 
+  @media (max-width: 480px) { 
+    .modal
+    {
+      margin-left: -100px;
+      width: 400px;
+    }
+
+    .btn input 
+    {
+      margin-left: 120px;
+    }
+}
+
+

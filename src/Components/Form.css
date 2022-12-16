@@ -61,4 +61,11 @@
     
   }
 
+
+  @media (max-width: 480px) { 
+    .edge
+    {
+        margin-left: 60px;
+    }
+}
  

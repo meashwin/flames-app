@@ -52,6 +52,13 @@
     
   }
 
+  @media (max-width: 480px) { 
+    .footer
+    {
+        margin-left: 20px;
+    }
+}
+
 
   
 

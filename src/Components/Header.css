@@ -28,4 +28,12 @@
     
   }
 
+
+  @media (max-width: 480px) { 
+    .head h1 
+    {
+        margin-left: 150px;
+    }
+}
+
     

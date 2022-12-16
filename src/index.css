@@ -12,10 +12,10 @@ body {
  
 }
 
-@media (max-width: 300px) { 
+@media (max-width: 78px) { 
   body{
     background-repeat: repeat;
-    width: 300px;
+    width: 100%;
     height: 505px;
   }
   

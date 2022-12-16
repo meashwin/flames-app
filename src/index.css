@@ -12,7 +12,7 @@ body {
  
 }
 
-@media (max-width: 78px) { 
+@media (max-width: 768px) { 
   body{
     background-repeat: repeat;
     width: 100%;

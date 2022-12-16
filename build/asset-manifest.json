@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/flames-app/static/css/main.dbc3e292.css",
+    "main.css": "/flames-app/static/css/main.181ad968.css",
     "main.js": "/flames-app/static/js/main.3a71f13a.js",
     "static/media/background.gif": "/flames-app/static/media/background.481482dcf623ea920c53.gif",
     "index.html": "/flames-app/index.html",
-    "main.dbc3e292.css.map": "/flames-app/static/css/main.dbc3e292.css.map",
+    "main.181ad968.css.map": "/flames-app/static/css/main.181ad968.css.map",
     "main.3a71f13a.js.map": "/flames-app/static/js/main.3a71f13a.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbc3e292.css",
+    "static/css/main.181ad968.css",
     "static/js/main.3a71f13a.js"
   ]
 }

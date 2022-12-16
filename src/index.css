@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-image: url(./Images/background.gif);
+ 
+}
+
+@media (max-width: 300px) { 
+  body{
+    background-repeat: repeat;
+    width: 300px;
+    height: 505px;
+  }
+  
+}

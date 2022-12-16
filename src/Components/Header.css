@@ -1,0 +1,31 @@
+.head
+{
+    
+    background-color: rgba(232, 11, 169, 0.082);
+    width: 100%;
+    margin-top: 40px;
+    
+
+}
+
+.head h1
+{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    margin-left: 555px;
+    font-weight: 200;
+    font-size: 50px;
+
+}
+
+@media (max-width: 768px) { 
+    
+    .head h1 
+    {
+        margin-left: 270px;
+    }
+    
+  }
+
+    

@@ -1,0 +1,58 @@
+.footer
+{
+    display: inline-flex;
+    background-color: rgba(153, 50, 204, 0.516);
+    margin-top: 10px;
+    position: fixed;
+    margin-left: 450px;
+    margin-top: 105px;
+    padding: 0px 50px;
+    border-radius: 10px;
+}
+
+
+.footer a p
+{
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    
+    
+}
+
+.footer a img
+{
+    margin-left: 50px;
+    margin-top: 18px;
+    height: 20px;
+    width: 20px;
+}
+
+.footer a p:hover
+{
+    text-decoration: underline;
+}
+
+.footer a
+{
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    padding: 3px;
+    text-decoration: none;
+    margin-top: 0   px;
+}
+
+
+@media (max-width: 768px) { 
+    
+    .footer
+    {
+        margin-top: 25px;
+        margin-left: 160px;
+    }
+    
+  }
+
+
+  
+
+

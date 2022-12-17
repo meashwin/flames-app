@@ -104,7 +104,7 @@ const [error,setError]=useState()
                 if(flames[i]!=='*')
                 {
                     setError({
-                        title:'The Relationship is between '+s1+' & '+s2+' is',
+                        title:'Flames Result between '+s1+' & '+s2+' is',
                         message:flames[i]
                     })
 

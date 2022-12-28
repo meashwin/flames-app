@@ -133,9 +133,9 @@ const [error,setError]=useState()
         <div className="edge">
            
             <form onSubmit={calculate}>
-                <label>Enter the First Name</label>
+                <label>Enter Your Name</label>
                 <input type={"text"} onChange={firstnameChangeHandler} value={enteredFirstName}></input>
-                <label>Enter the Second Name</label>
+                <label>Enter your partners Name</label>
                 <input type={"text"} onChange={secondnameChangeHandler} value={enteredSecondName}></input>
                 <br></br>
                 <div className="sub">
